@@ -1,3 +1,4 @@
+![3 3_page-0001](https://github.com/user-attachments/assets/25ba1351-2441-4214-bc92-c12b03d75282)
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
 
@@ -35,7 +36,8 @@ Switch to drawing mode from design mode
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
-## OUTPUT
+## OUTPUT![3 3_page-0001](https://github.com/user-attachments/assets/403575f7-f7eb-4e3b-a862-b592f880098f)
+
 
 
 ## RESULT:
